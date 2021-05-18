@@ -3,7 +3,7 @@
 ## Description
 Incheon National University SmartLivingLab Hakathon Image Processing 1st Prize AI Model
 
-## Membe
+## Member
 [anima0729](https://github.com/anima0729)
 <br><br>
 [sunni3722](https://github.com/sunni3722)
