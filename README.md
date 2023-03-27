@@ -1,7 +1,7 @@
 # INU-SmartLivingLabHackathon
 
 ## Description
-Incheon National University SmartLivingLab Hakathon Image Processing 1st Prize AI Model
+Incheon National University SmartLivingLab Hackathon Image Processing 1st Prize AI Model
 
 ## Member
 [anima0729](https://github.com/anima0729)
