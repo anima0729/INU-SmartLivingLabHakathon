@@ -1,4 +1,4 @@
-# INU-SmartLivingLabHakathon
+# INU-SmartLivingLabHackathon
 
 ## Description
 Incheon National University SmartLivingLab Hakathon Image Processing 1st Prize AI Model
