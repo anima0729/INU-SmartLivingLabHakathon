@@ -6,7 +6,7 @@ Incheon National University SmartLivingLab Hackathon Image Processing 1st Prize 
 ## Member
 [anima0729](https://github.com/anima0729)
 <br><br>
-[sunni3722](https://github.com/sunni3722)
+[sunni546](https://github.com/sunni546)
 <br><br>
 [inhwa711](https://github.com/Inhwa711)
 
